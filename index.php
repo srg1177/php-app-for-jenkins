@@ -45,7 +45,7 @@ else
             <li><a href="https://github.com/aws/aws-sdk-php">AWS SDK for PHP on GitHub</a></li>
 	</ul>
 	<h2> My Picture</h2>
-	<img src="image.jpeg">
+	<img src="image.jpeg" alt="Example" width="500" height="500"  >
     </section>
 
     <!--[if lt IE 9]><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
